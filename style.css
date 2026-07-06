@@ -22,12 +22,12 @@ input,select{
 button{
     width:100%;
     padding:10px;
-    background:blue;
+    background:green;
     color:white;
     border:none;
     cursor:pointer;
 }
 
 button:hover{
-    background:darkblue;
+    background:darkgreen;
 }
